@@ -28,9 +28,9 @@ Step 2: Create the ProductProcessor Class
 
   
 Test Cases
-Test Case	                        Input Data	                                                                           Expected Output
-Case 1: Normal Case             	Sample dataset with Electronics, Clothing, and Footwear	                      Grouped products, Most Expensive per category, Average price
-Case 2: Single Category Only      All products in "Electronics"	                                                One category, Most Expensive in Electronics, Average of all
-Case 3: Same Price in a Category	Two products with the same highest price in "Footwear"	                      Any of the most expensive ones is displayed
-Case 4: Only One Product	        One product "Laptop" in "Electronics"	                                        Laptop as the most expensive, Laptop as the only average
-Case 5: Empty List	              No products	                                                                  No grouping, No most expensive product, Average price = 0
+Test Case	                          Input Data	                                                                           Expected Output
+Case 1: Normal Case             	  Sample dataset with Electronics, Clothing, and Footwear	                      Grouped products, Most Expensive per category, Average price
+Case 2: Single Category Only        All products in "Electronics"	                                                One category, Most Expensive in Electronics, Average of all
+Case 3: Same Price in a Category	  Two products with the same highest price in "Footwear"	                      Any of the most expensive ones is displayed
+Case 4: Only One Product	          One product "Laptop" in "Electronics"	                                        Laptop as the most expensive, Laptop as the only average
+Case 5: Empty List	                No products	                                                                  No grouping, No most expensive product, Average price = 0
