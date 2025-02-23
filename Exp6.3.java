@@ -10,12 +10,11 @@ Step 1: Create the Product Class
     name (String)
     category (String)
     price (double)
-
+  
+or (Reads product data from a CSV file)
 For Example: "Laptop", "Electronics", 1200
              "Phone", "Electronics", 800
-  
-- Implement a constructor to initialize these values.
-- Override toString() to print product details.
+
 
 Step 2: Create the ProductProcessor Class
 - Create a list of products with multiple categories and prices.
