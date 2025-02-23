@@ -9,7 +9,7 @@ Step 1: Create the Student Class
 
 Step 2: Create the StudentFilterSort Class
 - Create a list of students with sample data.
-- Use Streams API to:
+- Use Streams Class to:
       Filter students who scored above 75%.
       Sort students by marks in descending order.
       Collect the results into a new list.
